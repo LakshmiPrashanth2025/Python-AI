@@ -184,7 +184,7 @@ uvicorn mcp_servers.world_data_server:app --reload --port 8001
 # Run Streamlit UI
 
 ```bash
-streamlit run ui/app.py
+streamlit run ui/streamlit_app.py
 ```
 
 ---
